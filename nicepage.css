@@ -44342,11 +44342,15 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -48px -1px 20px auto;
+  margin: -48px 0 20px auto;
 }
 
 .u-header .u-nav-1 {
   font-weight: 700;
+  font-size: 1rem;
+}
+
+.u-header .u-nav-2 {
   font-size: 1rem;
 }
 
@@ -44356,11 +44360,15 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: 19px 21px 0 auto;
 }
 
-.u-header .u-nav-2 {
+.u-header .u-nav-3 {
   font-size: 1rem;
   letter-spacing: 0px;
   margin-top: 21px;
   margin-bottom: 0;
+}
+
+.u-header .u-nav-4 {
+  font-size: 1rem;
 }
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
